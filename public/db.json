@@ -2,9 +2,9 @@
   "products": [
     {
       "id": 1,
-      "sku": 18644119330491312,
-      "title": "Sphynx Tie Dye Grey T-Shirt",
-      "description": "Sphynx Tie Dye Grey",
+      "sku": 1,
+      "title": "Arabica coffee",
+      "description": "",
       "availableSizes": ["X", "L", "XL", "XXL"],
       "price": 10,
       "isFreeShipping": true
@@ -12,9 +12,9 @@
 
     {
       "id": 2,
-      "sku": 11854078013954528,
-      "title": "Danger Knife Grey T-Shirt",
-      "description": "Danger Knife Grey",
+      "sku": 2,
+      "title": "Kenya AA coffee",
+      "description": "",
       "availableSizes": ["X", "M", "L"],
       "price": 14.9,
       "isFreeShipping": true
@@ -22,8 +22,8 @@
 
     {
       "id": 3,
-      "sku": 876661122392077,
-      "title": "White DGK Script Tee",
+      "sku": 3,
+      "title": "Eth Harrar coffee",
       "description": "White DGK Script",
       "availableSizes": ["X", "M", "L"],
       "price": 14.9,
@@ -32,8 +32,8 @@
 
     {
       "id": 4,
-      "sku": 9197907543445677,
-      "title": "Born On The Streets  T-Shirt",
+      "sku": 4,
+      "title": "Yirgacheffe",
       "description": "Born On The Streets",
       "availableSizes": ["XL"],
       "price": 25.9,
@@ -42,8 +42,8 @@
 
     {
       "id": 5,
-      "sku": 10547961582846888,
-      "title": "Tso 3D Short Sleeve T-Shirt A",
+      "sku": 5,
+      "title": "Roasted coffee",
       "description": "Tso 3D Short Sleeve",
       "availableSizes": ["X", "L", "XL"],
       "price": 10.9,
@@ -52,8 +52,8 @@
 
     {
       "id": 6,
-      "sku": 6090484789343891,
-      "title": "Man Tie Dye Cinza Grey T-Shirt",
+      "sku": 6,
+      "title": "Coffee beans",
       "description": "Man Tie Dye Cinza Grey",
       "availableSizes": ["XL", "XXL"],
       "price": 49.9,
@@ -62,8 +62,8 @@
 
     {
       "id": 7,
-      "sku": 18532669286405342,
-      "title": "Crazy Monkey Black T-Shirt",
+      "sku": 7,
+      "title": "peaberry coffee",
       "description": "1977 Infantil",
       "availableSizes": ["S"],
       "style": "Preto com listras brancas",
@@ -73,8 +73,8 @@
 
     {
       "id": 8,
-      "sku": 5619496040738316,
-      "title": "Tso 3D Black T-Shirt",
+      "sku": 8,
+      "title": "AA coffee",
       "description": "",
       "availableSizes": ["XL"],
       "style": "Azul escuro",
@@ -83,12 +83,30 @@
     },
     {
       "id": 9,
-      "sku": 11600983276356165,
-      "title": "Crazy Monkey Grey",
+      "sku": 9,
+      "title": "coffee beans",
       "description": "",
       "availableSizes": ["L", "XL"],
       "price": 134.9,
       "isFreeShipping": true
+    },
+    {
+      "id": 10,
+      "sku": 10,
+      "title": "Roasted coffee",
+      "description": "Tso 3D Short Sleeve",
+      "availableSizes": ["X", "L", "XL"],
+      "price": 10.9,
+      "isFreeShipping": false
+    },
+    {
+      "id": 11,
+      "sku": 11,
+      "title": "Yirgacheffe",
+      "description": "Born On The Streets",
+      "availableSizes": ["XL"],
+      "price": 25.9,
+      "isFreeShipping": false
     }
   ]
 }

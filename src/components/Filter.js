@@ -28,7 +28,7 @@ class Filter extends Component {
         <div className="col-md-4">
           <label>
             {" "}
-            Filter Size
+             select coffee type
             <select
               className="form-control"
               value={this.props.size}
@@ -40,12 +40,12 @@ class Filter extends Component {
               }}
             >
               <option value="">ALL</option>
-              <option value="x">XS</option>
-              <option value="s">S</option>
-              <option value="m">M</option>
-              <option value="l">L</option>
-              <option value="xl">XL</option>
-              <option value="xxl">XXL</option>
+              <option value="x">Tz peaberry coffee</option>
+              <option value="s">Eth Harrar coffee</option>
+              <option value="m">Ug GA coffee</option>
+              <option value="l">Bur kenyanza coffee</option>
+              <option value="xl">Arabica</option>
+              <option value="xxl">yirgacheffee</option>
             </select>
           </label>
         </div>
